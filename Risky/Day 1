@@ -1,0 +1,5 @@
+<html lang="en">
+<head>
+  
+    <title>Installing and Optimizing Kali Linux on Hyper-V :: Mark Ramige: Appsec and Bug Bounties</title>
+<meta name="description" content="Kali Linux runs great on Windows if you’re using VirtualBox or VMware Workstation. You might have tried installing it on Hyper-V so that you can run WSL 2 distributions at the same time and experienced how poorly Hyper-V handles desktop Linux. Microsoft is working to fix this by enabling enhanced session mode on desktop linux distributions. I’ll show you how to set up Kali Linux on Hyper-V so that it runs faster and also to enable copying and pasting between the VM and host (including files)." />
